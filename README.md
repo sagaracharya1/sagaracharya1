@@ -1,6 +1,4 @@
-<--
-Version 1.1
--->
+<!-- Version 1.1 -->
 
 # Hi there 👋, I'm Sagar!
 
