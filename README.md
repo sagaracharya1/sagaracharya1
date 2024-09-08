@@ -10,7 +10,7 @@
 
 🤔 I’m looking for help with improving **legacy system automation** and scaling performance optimization in large-scale mainframe systems.
 
-💬 Ask me about **COBOL**, **JCL**, **CICS**, **DB2**, **IMS**, **TSO**, **REXX**, and **z/OS** performance tuning.
+💬 Ask me about **COBOL**, **JCL**, **DB2**, **TSO** and **z/OS** performance tuning.
 
 📫 How to reach me: sagarhhr29@gmail.com | www.linkedin.com/in/sagarn95
 
@@ -19,9 +19,9 @@
 ---
 
 ### 🔧 Technologies & Tools:
-- **Languages**: COBOL, JCL, REXX, Assembler, SQL
+- **Languages**: COBOL, JCL, Assembler, SQL
 - **Tools & Utilities**: BMC unload, DFSORT, ICETOOL, IDCAMS, Endeavour, ServiceNow, Jira
-- **Platforms**: z/OS, TSO/ISPF, CICS, DB2
+- **Platforms**: z/OS, TSO/ISPF, DB2
 - **Other Skills**: Mainframe performance tuning, Agile Methodology, System/Integration Testing
 
 ---
