@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Sagar!
 
-🔭 I’m currently working as a Mainframe Developer with expertise in **JCL**, **COBOL**, **VSAM**, **z/OS**, and more.
+🔭 I’m currently working as a Mainframe Developer and support with expertise in **JCL**, **COBOL**, **VSAM**, **CICS**, and more.
 
 🌱 I’m currently learning how to integrate mainframe systems with modern tools like **Zowe** and exploring **IBM DevOps**.
 
@@ -10,7 +10,7 @@
 
 🤔 I’m looking for help with improving **legacy system automation** and scaling performance optimization in large-scale mainframe systems.
 
-💬 Ask me about **COBOL**, **JCL**, **DB2**, **TSO** and **z/OS** performance tuning.
+💬 Ask me about **COBOL**, **JCL**, **DB2**, **TSO** and **CICS** performance tuning.
 
 📫 How to reach me: sagarhhr29@gmail.com | www.linkedin.com/in/sagarn95
 
