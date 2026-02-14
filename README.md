@@ -1,30 +1,100 @@
 <!-- Version 1.1 -->
 
-# Hi there 👋, I'm Sagar!
+# Hi 👋 I'm Sagar N
 
-🔭 I’m currently working as a Mainframe Developer and support with expertise in **JCL**, **COBOL**, **VSAM**, **CICS**, and more.
-
-🌱 I’m currently learning how to integrate mainframe systems with modern tools like **Zowe** and exploring **IBM DevOps**.
-
-👯 I’m looking to collaborate on **mainframe modernization** projects, especially in areas like hybrid cloud integration and DevOps for legacy systems.
-
-🤔 I’m looking for help with improving **legacy system automation** and scaling performance optimization in large-scale mainframe systems.
-
-💬 Ask me about **COBOL**, **JCL**, **DB2**, **TSO** and **CICS** performance tuning.
-
-📫 How to reach me: sagarhhr29@gmail.com | www.linkedin.com/in/sagarn95
-
-⚡ Fun fact: Mainframes still process more than **80% of the world's business data** and run **90% of all Fortune 500 companies’ core systems**.
+💼 Mainframe Developer | Production Support Engineer  
+🏦 Enterprise Banking Systems | SLA-Critical Batch Environments  
+🖥 IBM z/OS | JCL | COBOL | VSAM | DB2 | CICS  
 
 ---
 
-### 🔧 Technologies & Tools:
-- **Languages**: COBOL, JCL, Assembler, SQL
-- **Tools & Utilities**: BMC unload, DFSORT, ICETOOL, IDCAMS, Endeavour, ServiceNow, Jira
-- **Platforms**: z/OS, TSO/ISPF, DB2
-- **Other Skills**: Mainframe performance tuning, Agile Methodology, System/Integration Testing
+## 👨‍💻 Professional Summary
+
+Mainframe Developer with 4 years of experience supporting and enhancing large-scale enterprise batch systems in banking environments.
+
+Strong expertise in JCL development, VSAM dataset management, COBOL program support, DB2 integration, and production incident resolution. Experienced in SLA-driven environments handling critical financial workloads.
+
+Proven ability to troubleshoot complex batch failures, optimize performance, and ensure high availability of mission-critical systems.
 
 ---
+
+## 🔧 Core Technical Skills
+
+### 🖥 Mainframe Technologies
+- JCL (Multi-step jobs, GDG, Conditional Processing)
+- COBOL (Batch & CICS)
+- VSAM (KSDS, ESDS, AIX)
+- DB2 (Query tuning, embedded SQL)
+- CICS Transaction Processing
+- z/OS, TSO/ISPF
+
+### ⚙ Utilities & Tools
+- IDCAMS
+- DFSORT / ICETOOL
+- BMC Unload
+- Endeavour
+- ServiceNow
+- Jira
+
+### 📊 Production Support Expertise
+- Batch Monitoring & Job Scheduling Concepts
+- SLA Management
+- Root Cause Analysis (RCA)
+- Incident & Problem Management
+- Performance Tuning
+- Dataset Management & Space Optimization
+
+---
+
+## 🚀 Key Experience Highlights
+
+- Developed and maintained enterprise JCL for high-volume financial batch systems  
+- Handled critical production incidents including dataset failures, abends (S0C7, S913), and performance bottlenecks  
+- Worked extensively with GDG versioning and VSAM data extraction  
+- Performed dataset reorganization and space optimization  
+- Ensured timely batch completion within SLA windows  
+- Collaborated with cross-functional teams during production deployments  
+
+---
+
+## 🏦 Domain Exposure
+
+- Banking & Financial Services
+- High-volume transaction processing
+- End-of-day (EOD) batch cycles
+- Regulatory and reporting workloads
+
+---
+
+## 📂 Featured Project
+
+🔹 **Enterprise VSAM to Cloud Migration Simulation**
+
+Designed a multi-step JCL pipeline demonstrating:
+
+- VSAM extraction using IDCAMS REPRO  
+- GDG versioning strategy  
+- Conditional execution & return code handling  
+- Batch data preparation for downstream analytics  
+
+Repository:
+https://github.com/sagaracharyal/mainframe-to-gcp-data-pipeline
+
+---
+
+## 📫 Connect With Me
+
+📧 sagarhhr29@gmail.com  
+🔗 https://www.linkedin.com/in/sagarn95  
+
+---
+
+## ⚡ Professional Philosophy
+
+Enterprise systems demand stability, precision, and accountability.  
+I focus on building reliable batch processes, resolving incidents efficiently, and ensuring uninterrupted business operations.
+
+
 
 
 ## 🌐 Socials:
